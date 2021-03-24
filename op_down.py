@@ -1,0 +1,9 @@
+a=int(input("Enter 1st Number:"));
+b=int(input("Enter 2nd Number:"));
+print("before swap a=",a);
+print ("before swap b=",b);
+c=a;
+a=b;
+b=c;
+print("after value of a=",a);
+print("afrer value of b=",b);
